@@ -47,12 +47,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p1resruben&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p1resruben&theme=dark&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1resruben&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=p1resruben&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <br/> <!-- Adiciona um espaço extra entre as imagens -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p1resruben&theme=dark&hide_border=false" /><br/>
+  <br/> <!-- Adiciona um espaço extra entre as imagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1resruben&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <hr/>
+
+
 <h2 align="center"> ✍️ Random Dev Quote </h2>
 
 <p align="center">
