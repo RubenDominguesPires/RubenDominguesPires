@@ -54,8 +54,8 @@
 </p>
 
 <hr/>
-<p align="center">
 <h2 align="center"> ✍️ Random Dev Quote </h2>
-</p>
-
+<p align="center">
+    
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</p>
