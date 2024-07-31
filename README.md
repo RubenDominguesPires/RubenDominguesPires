@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=RubenDominguesPires.RubenDominguesPires)
+<img align="right" src="https://img.shields.io/badge/Visitors-1000-blue" />
 
 
 <h1 align="center">
