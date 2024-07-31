@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.RubenDominguesPires" />
+<img align="right" src="https://p-nerd.dev/visitor-badge?left_color=gray&right_color=blue&left_text=Profile+Views&right_text=RubenDominguesPires" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rúben+Pires!;" />
