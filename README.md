@@ -45,15 +45,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/p1resx/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
@@ -63,6 +54,8 @@
 </p>
 
 <hr/>
+<p align="center">
 <h2 align="center"> ✍️ Random Dev Quote </h2>
+</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
