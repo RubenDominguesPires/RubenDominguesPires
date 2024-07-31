@@ -65,7 +65,3 @@
 <h2 align="center"> ✍️ Random Dev Quote </h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-<hr/>
-
-[![](https://visitcount.itsvg.in/api?id=p1resx&icon=9&color=13)](https://visitcount.itsvg.in)
