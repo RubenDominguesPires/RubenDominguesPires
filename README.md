@@ -1,4 +1,4 @@
-<img align="right" src="https://img.shields.io/badge/Visitors-38213721897-blue" />
+<img align="right" src="https://p-nerd.dev/visitor-badge?left_color=gray&right_color=blue&left_text=Profile+Views&right_text=RubenDominguesPires" />
 
 
 <h1 align="center">
