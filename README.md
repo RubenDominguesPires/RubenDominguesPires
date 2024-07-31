@@ -57,9 +57,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=p1resx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=p1resx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=p1resx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=p1resx&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p1resx&theme=dark&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1resx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
 
 <hr/>
 <h2 align="center"> ✍️ Random Dev Quote </h2>
